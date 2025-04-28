@@ -1,66 +1,66 @@
 [
   {
     "isim": "BMW 3 Serisi",
-    "kalori": "Spor sedan klasmanının kralı gibi görülür",
-    "karbonhidrat": "Hem konfor hem sürüş zevki dengesi efsane",
+    "kalori": "Spor sedan sınıfının liderlerinden biri",
+    "karbonhidrat": "Hem konfor hem sürüş zevki dengesi mükemmel",
     "protein": "Performans, BMW",
-    "yag": "1995, Brendan Eich",
+    "yag": "1975, BMW",
     "gorsel": "https://github.com/SWAPNL141/BMWTanitim/blob/main/bmw3.png?raw=true"
   },
   {
     "isim": "BMW 5 Serisi",
-    "kalori": "Orta-üst sınıf sedan; iş dünyası ve aileler arasında favori",
-    "karbonhidrat": "Yüksek bütçeli",
+    "kalori": "Orta-üst sınıf sedan; iş dünyası ve uzun yolculuklar için ideal",
+    "karbonhidrat": "Yüksek performans ve konfor bir arada",
     "protein": "Performans, BMW",
-    "yag": "2012, Microsoft",
+    "yag": "1972, BMW",
     "gorsel": "https://github.com/SWAPNL141/BMWTanitim/blob/main/bmw5.png?raw=true"
   },
   {
     "isim": "BMW 7 Serisi",
-    "kalori": "Lüks ve teknoloji bombardımanı",
-    "karbonhidrat": "BMW'nin amiral gemisi sedanı",
+    "kalori": "Lüks sedan sınıfının en ileri düzey teknolojisini sunar",
+    "karbonhidrat": "BMW'nin amiral gemisi lüks sedanı",
     "protein": "Performans, BMW",
-    "yag": "1991, Guido van Rossum",
+    "yag": "1977, BMW",
     "gorsel": "https://github.com/SWAPNL141/BMWTanitim/blob/main/bmw7.png?raw=true"
   },
   {
     "isim": "BMW X5 Serisi",
-    "kalori": "Lüks SUV'ların en bilinenlerinden",
-    "karbonhidrat": "Hem şehir hem arazi uyumu başarılı.",
+    "kalori": "Lüks SUV'ların öncülerindendir",
+    "karbonhidrat": "Hem şehirde hem de arazide güçlü performans sunar",
     "protein": "Performans, BMW",
-    "yag": "1993, Tim Berners-Lee",
+    "yag": "1999, BMW",
     "gorsel": "https://github.com/SWAPNL141/BMWTanitim/blob/main/bmwx5.png?raw=true"
   },
   {
     "isim": "BMW X3 Serisi",
-    "kalori": "Orta boy SUV isteyenler için, şehir kullanımına çok uygun.",
-    "karbonhidrat": "SUV Sport",
+    "kalori": "Orta boy SUV isteyenler için, şehir kullanımına da çok uygun",
+    "karbonhidrat": "Şehir içi ve yol dışı mükemmel uyum",
     "protein": "Performans, BMW",
-    "yag": "1996, Håkon Wium Lie",
+    "yag": "2003, BMW",
     "gorsel": "https://github.com/SWAPNL141/BMWTanitim/blob/main/bmwx3.png?raw=true"
   },
   {
     "isim": "BMW 4 Serisi",
-    "kalori": "Özellikle Coupé ve Gran Coupé modelleriyle tasarımıyla öne çıkıyor.",
-    "karbonhidrat": "Sport",
+    "kalori": "Coupé ve Gran Coupé modelleriyle tasarımı ön planda",
+    "karbonhidrat": "Sportif tasarım ve sürüş",
     "protein": "Performans, BMW",
-    "yag": "1995, Rasmus Lerdorf",
+    "yag": "2013, BMW",
     "gorsel": "https://github.com/SWAPNL141/BMWTanitim/blob/main/bmw4.png?raw=true"
   },
   {
     "isim": "BMW 1 Serisi",
-    "kalori": "Kompakt hatchback severler için",
-    "karbonhidrat": "şehir içi kullanımda çok tercih ediliyor",
+    "kalori": "Kompakt hatchback sınıfının modern BMW versiyonu",
+    "karbonhidrat": "Şehir içi kullanımda ideal",
     "protein": "Performans, BMW",
-    "yag": "2011, JetBrains",
+    "yag": "2004, BMW",
     "gorsel": "https://github.com/SWAPNL141/BMWTanitim/blob/main/bmw1.png?raw=true"
   },
   {
     "isim": "BMW M Serisi",
-    "kalori": "M3, M4, M5 gibi modelleri kapsıyor; ",
+    "kalori": "M3, M4, M5 gibi yüksek performanslı modelleri kapsar",
     "karbonhidrat": "BMW'nin yüksek performans canavarları",
     "protein": "Performans, BMW",
-    "yag": "2000, Microsoft",
+    "yag": "1972, BMW",
     "gorsel": "https://github.com/SWAPNL141/BMWTanitim/blob/main/bmwm.png?raw=true"
   }
 ]
